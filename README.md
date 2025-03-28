@@ -17,6 +17,6 @@ Flutter (Dart)
 
 📸 Capturas de Tela
 
-![Image](https://github.com/user-attachments/assets/262ea9c6-9249-4497-b615-6e4e99682612)
+![Image](https://github.com/user-attachments/assets/c4077c78-72f5-434f-8a95-794a7fd99eb3)
 
 Matriculas: 122100014 / 22117001
