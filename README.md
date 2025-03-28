@@ -20,4 +20,3 @@ Flutter (Dart)
 ![Image](https://github.com/user-attachments/assets/c4077c78-72f5-434f-8a95-794a7fd99eb3)
 
 Matriculas: 122100014 / 22117001
->>>>>>> 6913a1d441021ba0041f3177db81481c23c936c3
